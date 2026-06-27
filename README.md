@@ -68,7 +68,7 @@ Decision Tree merupakan algoritma klasifikasi yang bekerja dengan membentuk poho
 1. Clone repository ini.
 
 ```bash
-git clone https://github.com/username/Diabetes-Prediction-ML.git
+git clone https://github.com/izzahpaul/Diabetes-Prediction-ML.git
 ```
 
 2. Install library yang dibutuhkan.
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 3. Buka file notebook:
 
 ```
-Diabetes_Prediction.ipynb
+UAS.ipynb
 ```
 
 4. Jalankan seluruh cell secara berurutan.
